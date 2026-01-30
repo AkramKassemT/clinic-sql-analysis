@@ -7,7 +7,7 @@ operational and clinical questions using SQL.
 The goal is to demonstrate strong SQL skills including:
 - multi-table JOINs
 - aggregations and filtering
-- subqueries and CTEs
+- subqueries
 - date-based analysis
 - real-world healthcare-style data modeling
 
@@ -48,6 +48,7 @@ Relationships are enforced using foreign keys.
 
 ## Notes
 - This project intentionally focuses on SQL-based analysis.
+
 
 
 
