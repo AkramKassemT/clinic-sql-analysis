@@ -47,6 +47,7 @@ Relationships are enforced using foreign keys.
 - No real-world or protected health information (PHI) was used.
 
 ## Notes
-This project intentionally focuses on SQL-based analysis.
+- This project intentionally focuses on SQL-based analysis.
+
 
 
