@@ -41,5 +41,11 @@ Relationships are enforced using foreign keys.
 - seed.sql: manually created, realistic clinical data
 - analysis_queries.sql: analytical SQL queries and results
 
+## Data Disclaimer
+All data in this project is **synthetic and manually created for educational purposes**.
+It does not represent real patients, clinicians, or medical records.
+No real-world or protected health information (PHI) was used.
+
 ## Notes
 This project intentionally focuses on SQL-based analysis.
+
